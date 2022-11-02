@@ -1,4 +1,14 @@
 .App-footer {
   text-align: center;
-  margin-top: 30px;
+  margin: 30 0;
+}
+.App-logo {
+  max-width: 900px;
+  max-height: 300px;
+  display: block;
+  margin: 0 auto;
+  padding: 30px;
+}
+form {
+  text-align: center;
 }
